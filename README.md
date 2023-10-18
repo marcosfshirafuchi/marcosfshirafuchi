@@ -6,7 +6,8 @@
  
  <h1 align="left">Marcos Shirafuchi</h1>
  <a href="https://www.linkedin.com/in/marcosshirafuchi/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align:top;"/>
+  
   </a>
 </div>
 
@@ -15,7 +16,7 @@
 
 ## Hello, Devs!!
 
-Moro em São Paulo,SP,Brasil. Eu amo estudar programação e inglês e também cachorros! Eu sou formado na Fatec São Paulo no curso de análise e desenvolvimento de sistemas e estou
+Moro em São Paulo,SP,Brasil. Eu amo estudar programação e inglês e também cachorros! Eu sou formado na <a href="http://www.fatecsp.br/">Fatec São Paulo</a> no curso de análise e desenvolvimento de sistemas e estou
 estudando a linguagem Java.
 
 <p align="center">
@@ -29,6 +30,9 @@ estudando a linguagem Java.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "Spring Boot"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "IntelliJ"/></code>
+
 </br>
 </br>
 </br>

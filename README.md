@@ -1,5 +1,6 @@
 
 # Hello, Devs!!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosshirafuchi/)
  ### Sobre mim:
  <img width="300px" align="right" src="https://i.ibb.co/7J392MG/Meu-avatar.jpg">
 
@@ -10,7 +11,7 @@
  <p align="left">📚 Eu sou formado na <a href="http://www.fatecsp.br/">Fatec São Paulo</a> 
 no curso de análise e desenvolvimento de sistemas.</p>
 <p align="left">🤿 Eu sou autista. </p>
- <p align="left">📚  Eu stou estudando a linguagem Java e seu framework: Spring Boot.</p>
+ <p align="left">📚  Eu estou estudando a linguagem Java e seu framework: Spring Boot.</p>
  <p align="left">📷 Eu gosto de tirar fotos de passeios, ver dicas de estudos de programação e da língua inglesa</a> </p>
  <p align="left">☕ Eu amo comer no Outback, assistir a série Friends e estudar inglês.</p>
 </div>
@@ -25,15 +26,6 @@ no curso de análise e desenvolvimento de sistemas.</p>
 </br>
  
 
-### 🖥️ Contato: 
-</br>
-</br>
- <a href="https://www.linkedin.com/in/marcosshirafuchi/">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align:top;"/>
-  
-  </a>
-  </br>
-</br>
     
 
  ### 🖥️ Tecnologias e Ferramentas: 

@@ -7,7 +7,7 @@
 <div display="inline-block">
   
  <p align="left">🤿 Eu sou Marcos Ferreira Shirafuchi. </p>
- <p align="left">☕ Sou desenvolvedor backend junior na linguagem Java da <a href="https://www.specialisternebrasil.com.br/">Specialisterne Brasil</a>;</p>
+ <p align="left">☕ Sou desenvolvedor backend junior na linguagem Java da <a href="https://specialisternebrasil.com/">Specialisterne Brasil</a>;</p>
  <p align="left">📚 Eu sou formado na <a href="http://www.fatecsp.br/">Fatec São Paulo</a> 
 no curso de análise e desenvolvimento de sistemas.</p>
 <p align="left">🤿 Eu sou autista. </p>

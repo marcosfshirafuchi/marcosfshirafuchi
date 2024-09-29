@@ -1,9 +1,10 @@
 
 # Hello, Devs!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosshirafuchi/)
- ### Sobre mim:
+ ### Sobre mim / About me:
  <img width="300px" align="right" src="https://i.ibb.co/7J392MG/Meu-avatar.jpg">
 
+### Português
 <div display="inline-block">
   
  <p align="left">🤿 Eu sou Marcos Ferreira Shirafuchi. </p>
@@ -13,7 +14,20 @@ no curso de análise e desenvolvimento de sistemas.</p>
 <p align="left">🤿 Eu sou autista. </p>
  <p align="left">📚  Eu estou estudando a linguagem Java e seu framework: Spring Boot.</p>
  <p align="left">📷 Eu gosto de tirar fotos de passeios, ver dicas de estudos de programação e da língua inglesa</a> </p>
- <p align="left">☕ Eu amo comer no Outback, assistir a série Friends e estudar inglês.</p>
+ <p align="left">☕ Outback é meu lugar favorito para comer, assistir Friends e estudar inglês.</p>
+</div>
+
+### English
+<div display="inline-block">
+  
+ <p align="left">🤿 I am Marcos Ferreira Shirafuchi. </p>
+ <p align="left">☕ I am junior backend developer in Java language from <a href="https://specialisternebrasil.com/">Specialisterne Brasil</a>;</p>
+ <p align="left">📚 I am graduated in <a href="http://www.fatecsp.br/">Fatec São Paulo</a> 
+in the course of analysis and development of systems.</p>
+<p align="left">🤿 I am autistic. </p>
+ <p align="left">📚  I'm studying the Java language and its framework: Spring Boot.</p>
+ <p align="left">📷 I like taking pictures of tours, see tips for programming studies and the English language</a> </p>
+ <p align="left">☕ Outback is my favorite place to eat, watch Friends, and study English.</p>
 </div>
 </br>
 </br>
@@ -28,7 +42,7 @@ no curso de análise e desenvolvimento de sistemas.</p>
 
     
 
- ### 🖥️ Tecnologias e Ferramentas: 
+ ### 🖥️ Tecnologias e Ferramentas / Technologies and Tools: 
 
 <code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
@@ -45,7 +59,7 @@ no curso de análise e desenvolvimento de sistemas.</p>
 </br>
 
 
- ### 🖥️ Minhas contribuições: 
+ ### 🖥️ Minhas contribuições / My contributions: 
 </br>
 </br>
 <p align="center">

@@ -4,7 +4,7 @@
  ### Sobre mim / About me:
  <img width="300px" align="right" src="https://i.ibb.co/7J392MG/Meu-avatar.jpg">
 
-### Português
+### 🇧🇷 Português
 <div display="inline-block">
   
  <p align="left">🤿 Eu sou Marcos Ferreira Shirafuchi. </p>
@@ -17,7 +17,7 @@ no curso de análise e desenvolvimento de sistemas.</p>
  <p align="left">☕ Outback é meu lugar favorito para comer, assistir Friends e estudar inglês.</p>
 </div>
 
-### English
+### 🇬🇧 English
 <div display="inline-block">
   
  <p align="left">🤿 I am Marcos Ferreira Shirafuchi. </p>

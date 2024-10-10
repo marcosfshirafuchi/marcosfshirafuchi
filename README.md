@@ -1,6 +1,7 @@
 
 # Hello, Devs!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosshirafuchi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shirafuchi.dev/?igsh=MTEyNzdmODhvcGxqZg%3D%3D)
  ### Sobre mim / About me:
  <img width="300px" align="right" src="https://i.ibb.co/7J392MG/Meu-avatar.jpg">
 

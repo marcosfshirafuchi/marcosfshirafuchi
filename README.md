@@ -9,7 +9,7 @@
 <div display="inline-block">
   
  <p align="left">🤿 Eu sou Marcos Ferreira Shirafuchi. </p>
- <p align="left">☕ Sou desenvolvedor backend junior na linguagem Java da <a href="https://specialisternebrasil.com/">Specialisterne Brasil</a>;</p>
+ <p align="left">☕ Sou desenvolvedor backend junior na linguagem Java da <a href="https://www.bv.com.br/">Banco BV</a>;</p>
  <p align="left">📚 Eu sou formado na <a href="http://www.fatecsp.br/">Fatec São Paulo</a> 
 no curso de análise e desenvolvimento de sistemas.</p>
 <p align="left">🤿 Eu sou autista. </p>
@@ -22,7 +22,7 @@ no curso de análise e desenvolvimento de sistemas.</p>
 <div display="inline-block">
   
  <p align="left">🤿 I am Marcos Ferreira Shirafuchi. </p>
- <p align="left">☕ I am junior backend developer in Java language from <a href="https://specialisternebrasil.com/">Specialisterne Brasil</a>;</p>
+ <p align="left">☕ I am junior backend developer in Java language from <a href="https://www.bv.com.br/">Banco BV</a>;</p>
  <p align="left">📚 I am graduated in <a href="http://www.fatecsp.br/">Fatec São Paulo</a> 
 in the course of analysis and development of systems.</p>
 <p align="left">🤿 I am autistic. </p>
@@ -32,8 +32,7 @@ in the course of analysis and development of systems.</p>
 </div>
 </br>
 </br>
-</br>
-</br>
+
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
@@ -56,9 +55,6 @@ in the course of analysis and development of systems.</p>
 </br>
 
 </br>
-</br>
-</br>
-
 
  ### 🖥️ Minhas contribuições / My contributions: 
 </br>

@@ -118,7 +118,39 @@
 - 🏅 Java e Tratamento de Exceções (1 hora) – DIO - **04/2024**
 - 🏅 Estruturas de Repetição em Java (1 hora) – DIO - **04/2024** 
 - 🏅 Introdução e Estruturas Condicionais com Java (1 hora) – DIO - **04/2024**
-- 🏅 Simulando Uma Conta Bancária Através Do Terminal/Console (1 hora) – DIO - **04/2024** 
+- 🏅 Simulando Uma Conta Bancária Através Do Terminal/Console (1 hora) – DIO - **04/2024**
+- 🏅 Aprendendo a Sintaxe Java (5 horas) – DIO - **04/2024**
+- 🏅 Ambiente de Desenvolvimento Java (1 hora) – DIO - **04/2024**
+- 🏅 Princípios de Desenvolvimento de Software Colaborativo (8 horas) – DIO - **04/2024**
+- 🏅 Aula Inaugural – Santander Bootcamp 2024 (2 horas) – DIO - **04/2024**
+- 🏅 Contribuindo em um Projeto Open Source no GitHub (1 hora) – DIO - **04/2024**
+- 🏅 Versionamento de Código com Git e GitHub (2 horas) – DIO - **04/2024**
+- 🏅 Desafios de Projetos: Crie Um Portfólio Vencedor (1 hora) – DIO - **04/2024**
+- 🏅 Introdução à Plataforma Java (1 hora) – DIO - **04/2024**
+- 🏅 Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas! (1 hora) – DIO - **04/2024**
+- 🏅 Curso_ JAVA EXCEÇÕES: APRENDA A CRIAR, LANÇAR E CONTROLAR EXCEÇÕES (8 horas) – Alura - **04/2024**
+- 🏅 Curso Java e Programação Orientada a Objetos Expert (160 horas) – DevSupeior - **04/2024**
+- 🏅 Curso_ PERSISTÊNCIA COM JPA: HIBERNATE (8 horas) – Alura - **03/2024**
+- 🏅 Curso_ MOCKS EM JAVA: CONHECENDO O MOCKITO (8 horas) – Alura - **03/2024**
+- 🏅 Formação_ JAVA E SPRING BOOT (34 horas) – Alura - **01/2024**
+- 🏅 Curso_ SPRING BOOT 3: DOCUMENTE, TESTE E PREPARE UMA API PARA O DEPLOY (10 horas) – Alura - **01/2024**
+- 🏅 Curso_ SPRING BOOT 3: APLIQUE BOAS PRÁTICAS E PROTEJA UMA API REST (12 horas) – Alura - **01/2024**
+- 🏅 Curso_ SPRING BOOT 3: DESENVOLVA UMA API REST EM JAVA (10 horas) – Alura - **12/2023**
+- 🏅 Curso_ MICROSSERVIÇOS NA PRÁTICA: ENTENDENDO A TOMADA DE DECISÕES (8 horas) – Alura - **12/2023**
+- 🏅 Curso_ HTTP: ENTENDENDO A WEB POR BAIXO DOS PANOS (14 horas) – Alura - **12/2023**
+- 🏅 Curso_ JAVA E SPRING: DESENVOLVA SUA PRIMEIRA APLICAÇÃO WEB (12 horas) – Alura - **11/2023**
+- 🏅 Curso_ CONSULTAS SQL: AVANÇANDO NO SQL COM MYSQL (14 horas) – Alura - **11/2023**
+- 🏅 Curso_ SQL COM MYSQL: MANIPULE E CONSULTE DADOS (12 horas) – Alura - **10/2023**
+- 🏅 Curso Online de Java (5 horas) - Criação de uma aplicação Java com Spring Boot – Rocketseat - **10/2023**
+- 🏅 Curso_ GIT E GITHUB: COMPARTILHANDO E COLABORANDO EM PROJETOS (08 horas) – Alura - **10/2023**
+- 🏅 Formação_ JAVA WEB: CRIE APLICAÇÕES COM SERVLETS E MVC (26 horas) – Alura - **09/2023**
+- 🏅 Curso_ JAVA SERVLET: AUTENTICAÇÃO, AUTORIZAÇÃO E O PADRÃO MVC (14 horas) – Alura - **09/2023**
+- 🏅 Curso_ JAVA SERVLET: PROGRAMAÇÃO WEB JAVA (10 horas) – Alura - **09/2023**
+- 🏅 Formação_ APRENDA A PROGRAMAR EM JAVA COM ORIENTAÇÃO A OBJETOS (121 horas) – Alura - **09/2023**
+- 🏅 Curso_ TDD E JAVA: TESTES AUTOMATIZADOS COM JUNIT (8 horas) – Alura - **09/2023**
+- 🏅 Curso_ JAVA 8: CONHEÇA AS NOVIDADES DESSA VERSÃO (12 horas) – Alura - **09/2023**
+- 🏅 Curso_ JAVA COLLECTIONS: DOMINANDO LISTAS, SETS E MAPAS (20 horas) – Alura - **08/2023**
+
 
 
 

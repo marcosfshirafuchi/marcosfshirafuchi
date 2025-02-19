@@ -56,7 +56,13 @@
 - 🔹 Experiência com desenvolvimento backend em Java, utilizando Spring Boot.
 - 💼 **Specialisterne Brasil** - Consultor de TI
 - 🔹 Experiência com desenvolvimento backend em Java, utilizando Spring Boot, Git e Postman.
-- 💼 **F1rst Tecnologia** - It Developer Cobol
+- 💼 **Santander Tecnologia e Inovação LTDA – F1RST** (**07/2021 - 07/2022**)
+  - Cargo: **IT Developer Cobol**
+  - 🖥️ **Tecnologias utilizadas:** Mainframe - TSO, Cobol, Data Lake, Soap
+  - 🔹 Teste dos serviços da baixa plataforma pelo software Soap
+  - 🔹 Monitoramento dos alertas da alta plataforma
+  - 🔹 Tratamento dos arquivos pelo Data Lake
+  - 🔹 Alteração dos Jobs através da linguagem Cobol
 
 ## 🏆 Certificações / Certifications:
 

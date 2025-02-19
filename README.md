@@ -150,6 +150,52 @@
 - 🏅 Curso_ TDD E JAVA: TESTES AUTOMATIZADOS COM JUNIT (8 horas) – Alura - **09/2023**
 - 🏅 Curso_ JAVA 8: CONHEÇA AS NOVIDADES DESSA VERSÃO (12 horas) – Alura - **09/2023**
 - 🏅 Curso_ JAVA COLLECTIONS: DOMINANDO LISTAS, SETS E MAPAS (20 horas) – Alura - **08/2023**
+- 🏅 Curso_ JAVA E JAVA.IO: STREAMS, READER E WRITERS (12 horas) – Alura - **08/2023**
+- 🏅 Curso_ JAVA E JAVA.UTIL: COLEÇÕES, WRAPPERS E LAMBDA EXPRESSIONS (12 horas) – Alura - **08/2023**
+- 🏅 Curso_ JAVA E JAVA.LANG: PROGRAME COM A CLASSE OBJECT E STRING (12 horas) – Alura - **08/2023**
+- 🏅 Curso_ APACHE CAMEL: O FRAMEWORK DE INTEGRAÇÃO ENTRE SISTEMAS (16 horas) - Alura - **08/2023**
+- 🏅 Curso_ MAVEN: GERENCIAMENTO DE DEPENDÊNCIAS E BUILD DE APLICAÇÕES JAVA (8 horas) – Alura - **07/2023**
+- 🏅 Curso_ GIT E GITHUB: REPOSITÓRIO, COMMIT E VERSÕES (8 horas) - **07/2023**
+- 🏅 Curso_ JAVA EXCEÇÕES: APRENDA A CRIAR, LANÇAR E CONTROLAR EXCEÇÕES (12 horas) – Alura - **07/2023**
+- 🏅 Curso_ JAVA POLIMORFISMO: ENTENDA HERANÇA E INTERFACES (16 horas) – Alura - **07/2023**
+- 🏅 Curso_ JAVA JRE E JDK: COMPILE E EXECUTE O SEU PROGRAMA (8 horas) – Alura - **07/2023**
+- 🏅 Curso_ DESIGN PATTERNS EM JAVA I: BOAS PRÁTICAS DE PROGRAMAÇÃO (8 horas) – Alura - **07/2023**
+- 🏅 Formação_ APRENDA JAVA COM ORIENTAÇÃO A OBJETOS (37 horas) – Alura - **07/2023**
+- 🏅 Curso_ JAVA: CONSUMINDO API, GRAVANDO ARQUIVOS E LIDANDO COM ERROS (10 horas) – Alura - **07/2023**
+- 🏅 Curso_ JAVA OO: ENTENDENDO A ORIENTAÇÃO A OBJETOS (8 horas) – Alura - **07/2023**
+- 🏅 Curso_ JAVA: APLICANDO A ORIENTAÇÃO A OBJETOS (10 horas) – Alura - **06/2023**
+- 🏅 Curso_ PYTHON: ENTENDENDO A ORIENTAÇÃO A OBJETOS (12 horas) – Alura - **06/2023**
+- 🏅 Curso_ ENTITY FRAMEWORK CORE: BANCO DE DADOS DE FORMA EFICIENTE (16 horas) – Alura - **06/2023**
+- 🏅 Curso_ PYTHON: AVANÇANDO NA LINGUAGEM (12 horas) – Alura - **06/2023**
+- 🏅 Curso_ PYTHON: COMEÇANDO COM A LINGUAGEM (12 horas) – Alura - **06/2023**
+- 🏅 Formação_ C# E ORIENTAÇÃO A OBJETOS: COLEÇÕES, ARQUIVOS E BIBLIOTECAS (28 horas) – Alura - **05/2023**
+- 🏅 Curso_ C#: CRIANDO E DISTRIBUINDO BIBLIOTECAS EM .NET (6 horas) – Alura - **05/2023**
+- 🏅 Curso_ JAVA: CRIANDO A SUA PRIMEIRA APLICAÇÃO (8 horas) – Alura - **05/2023**
+- 🏅 Curso_ C#: TRABALHANDO COM ARQUIVOS (10 horas) – Alura - **05/2023**
+- 🏅 Curso_ C#: TRABALHANDO COM ARRAYS E COLEÇÕES (10 horas) – Alura - **05/2023**
+- 🏅 Formação_ ASP.NET CORE: CRIE APLICAÇÕES COM C#, .NET, ENTITY FRAMEWORK E LINQ (37 horas) – Alura - **05/2023**
+- 🏅 Curso_ .NET 6 E IDENTITY: IMPLEMENTANDOCONTROLE DE USUÁRIO (8 horas) – Alura - **05/2023**
+- 🏅 Curso_ .NET 6: RELACIONANDO ENTIDADES (8 horas) – Alura - **05/2023**
+- 🏅 Curso_ .NET 6: CRIANDO UMA WEB API (10 horas) – Alura - **05/2023**
+- 🏅 Curso_ HTTP: ENTENDENDO A WEB POR BAIXO DOS PANOS (10 horas) – Alura - **05/2023**
+- 🏅 Formação_ APRENDA A PROGRAMAR EM C# COM ORIENTAÇÃO A OBJETOS (39 horas) – Alura - **05/2023**
+- 🏅 Curso_C#: ENTENDENDO EXCEÇÕES (8 horas) – Alura - **05/2023**
+- 🏅 Curso_ C#: USANDO HERANÇA E IMPLEMENTANDO INTERFACES (8 horas) – Alura - **04/2023**
+- 🏅 Curso_ C#: ORIENTAÇÃO A OBJETOS (8 horas) – Alura - **04/2023**
+- 🏅 Curso_ C#: EXPLORANDO A LINGUAGEM (12 horas) – Alura - **04/2023**
+- 🏅 Trilha de Formação CodeRDIversity – RDI Software / Prosper Tech Talents – **C# (120 horas)** – **02/2023 - 04/2023**
+- 🏅 **Consultor de TI em Treinamento** – Specialisterne Brasil (**23/01/2023 - 08/03/2023**)
+  - Formação Técnica:
+    - Scratch: Introdução à lógica de programação
+    - Pacote Office Excel
+    - Tratamento de dados
+    - Analytics
+    - Metodologia Scrum
+    - Testes de Software
+    - Práticas de development e backoffice
+- 🏅 Tech’s Cool: SAP ABAP – Accenture Academy (75 horas) – 08/2022 - 09/2022
+- 🏅 Formação de Mainframe I – Desenvolvedor COBOL Enterprise – Tech6 (80 horas) – 02/2021
+
 
 
 

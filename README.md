@@ -52,11 +52,23 @@
 
 ## 🚀 Experiência Profissional / Professional Experience:
 
-- 💼 **Banco BV** - Desenvolvedor Backend Junior (Java)
-- 🔹 Experiência com desenvolvimento backend em Java, utilizando Spring Boot.
-- 💼 **Specialisterne Brasil** - Consultor de TI
-- 🔹 Experiência com desenvolvimento backend em Java, utilizando Spring Boot, Git e Postman.
-- 💼 **Santander Tecnologia e Inovação LTDA – F1RST** (**07/2021 - 07/2022**)
+- 💼 **Banco BV** (**01/2025 - Presente**)
+  - Cargo: **Desenvolvedor Backend Junior (Java)**
+  - 🔹 Experiência com desenvolvimento backend em **Java** utilizando **Spring Boot**
+- 💼 **Specialisterne Brasil** (**07/2023 - 01/2025**)
+  - Cargo: **Consultor de TI**
+  - 🖥️ **Tecnologias utilizadas:** Java, Spring Boot, Swagger, Bitbucket, Jenkins, APIGEE, Postman, Git
+  - 🔹 Desenvolvimento de novos BFFs para os microserviços do cliente utilizando **Java e Spring Boot**
+  - 🔹 Migração de serviços do BFF antigo para um novo
+  - 🔹 Criação de contratos de API utilizando **Swagger Editor**
+  - 🔹 Gerenciamento de código no **Bitbucket** e **Jenkins**
+  - 🔹 Uso do **Git** para criação de branches e realização de pull requests para a branch master do cliente
+  - 🔹 Deploy do código para produção do cliente
+  - 🔹 Documentação de microsserviços no **Swagger Editor**
+  - 🔹 Aprendizado e uso do **APIGEE**
+  - 🔹 Trabalhei em metodologia ágil (**Scrum e Kanban**)
+  - 🔹 Testes das APIs dos serviços utilizando **Postman**
+- 💼 **F1RST Tecnologia** (**07/2021 - 07/2022**)
   - Cargo: **IT Developer Cobol**
   - 🖥️ **Tecnologias utilizadas:** Mainframe - TSO, Cobol, Data Lake, Soap
   - 🔹 Teste dos serviços da baixa plataforma pelo software Soap

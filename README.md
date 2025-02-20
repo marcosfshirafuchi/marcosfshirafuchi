@@ -223,9 +223,9 @@
 
 ## 🔗 Projetos / Projects:
 
-🔸 [Projeto Open Source DIO](https://github.com/marcosfshirafuchi/dio-lab-open-source)
-🔸 [API de Gestão de Usuários](https://github.com/marcosfshirafuchi/api-usuarios)
-🔸 [Sistema de Controle de Vendas](https://github.com/marcosfshirafuchi/sistema-vendas)
+🔸 [Ada Tech - Desenvolva + : Sistema de Locação de Veículos](https://github.com/marcosfshirafuchi/ADA-Tech-Projeto-Sistema-de-Locacao-de-Veiculos)<br>
+🔸 [Ada Tech - Desenvolva + | #1322 - Cálculo de Salário](https://github.com/marcosfshirafuchi/Ada-Tech-Projeto-Calculo-de-Salario)<br>
+🔸 [Udemy: Algoritmos e Lógica de Programação - O Curso COMPLETO](https://github.com/marcosfshirafuchi/Udemy-Algoritmos-e-Logica-de-Programacao-O-Curso-COMPLETO.git)<br>
 
 ## 📫 Contato / Contact:
 

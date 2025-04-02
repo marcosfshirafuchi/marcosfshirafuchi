@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shirafuchi.dev/?igsh=MTEyNzdmODhvcGxqZg%3D%3D)
 
 ## Sobre mim / About me:
-<img width="300px" align="right" src="https://i.ibb.co/7J392MG/Meu-avatar.jpg">
+<img width="300px" align="right" src="https://i.ibb.co/WNYLwrx6/converted-image.jpg" alt="converted-image" border="0"></a>
 
 ### 🇧🇷 Português
 <div display="inline-block">

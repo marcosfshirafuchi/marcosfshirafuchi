@@ -227,7 +227,7 @@
 |:-----------|:-------------|:---------------|:--------|
 | <img src="https://i.ibb.co/wNCRx9z/image-2025-01-04-T23-13-02-901-Z.png" width="100" height="50"> **Cálculo de Salário** | Sistema para calcular o salário líquido de colaboradores, considerando descontos como INSS e IRRF. | Java, Programação Orientada a Objetos | [🔗 Ver Projeto](https://github.com/marcosfshirafuchi/Ada-Tech-Projeto-Calculo-de-Salario) |
 | <img src="https://i.ibb.co/wNCRx9z/image-2025-01-04-T23-13-02-901-Z.png" width="100" height="50"> **Sistema de Locação de Veículos** | Sistema de locação de veículos, com controle de aluguéis e devoluções, utilizando conceitos de POO. | Java, Programação Orientada a Objetos | [🔗 Ver Projeto](https://github.com/marcosfshirafuchi/ADA-Tech-Projeto-Sistema-de-Locacao-de-Veiculos) |
-| <img src="https://i.ibb.co/41NVDPM/image-2024-12-01-T01-17-16-558-Z.png" width="100" height="50"> **Algoritmos e Lógica de Programação** | Projeto prático realizado durante o curso "Algoritmos e Lógica de Programação" da Udemy. | Java, Algoritmos, Lógica de Programação | [🔗 Ver Projeto](https://github.com/marcosfshirafuchi/Udemy-Algoritmos-e-Logica-de-Programacao-O-Curso-COMPLETO) |
+| <img src="https://i.ibb.co/41NVDPM/image-2024-12-01-T01-17-16-558-Z.png" width="100" height="50"> **Projetos de Cursos - Plataforma Udemy** | Projetos práticos realizados durante os cursos de Java e lógica de programação da Udemy. | Java, Algoritmos, Lógica de Programação | [🔗 Ver Projeto](https://github.com/marcosfshirafuchi/cursos-da-udemy) |
 
 ---
 

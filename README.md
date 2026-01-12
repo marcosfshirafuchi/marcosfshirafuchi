@@ -11,7 +11,7 @@
 <p align="left">🤿 Eu sou Marcos Ferreira Shirafuchi.</p>
 <p align="left">☕ Sou desenvolvedor backend junior na linguagem Java da <a href="https://www.bv.com.br/">Banco BV</a>.</p>
 <p align="left">📚 Graduado em Análise e Desenvolvimento de Sistemas pela <a href="http://www.fatecsp.br/">Fatec São Paulo</a>.</p>
-<p align="left">🎓 Atualmente cursando a Formação Desenvolva+ na <a href="https://ada.tech/">Ada Tech</a>, focado em Java.</p>
+<p align="left">🎓 Conclui a Formação Desenvolva+ na <a href="https://ada.tech/">Ada Tech</a>, focado em Java.</p>
 <p align="left">🤿 Eu sou autista.</p>
 <p align="left">📚 Estudando Java, Spring Boot e boas práticas de desenvolvimento backend.</p>
 <p align="left">📷 Gosto de tirar fotos de passeios, acompanhar dicas de programação e estudar inglês.</p>
@@ -25,7 +25,7 @@
 <p align="left">🤿 I am Marcos Ferreira Shirafuchi.</p>
 <p align="left">☕ I am a junior backend developer in Java language at <a href="https://www.bv.com.br/">Banco BV</a>.</p>
 <p align="left">📚 Graduated in Analysis and Systems Development at <a href="http://www.fatecsp.br/">Fatec São Paulo</a>.</p>
-<p align="left">🎓 Currently studying at <a href="https://ada.tech/">Ada Tech</a> in the Desenvolva+ program, focused on Java.</p>
+<p align="left">🎓Completes the Desenvolva+ training at <a href="https://ada.tech/">Ada Tech</a>, focused on Java.</p>
 <p align="left">🤿 I am autistic.</p>
 <p align="left">📚 Studying Java, Spring Boot, and backend best practices.</p>
 <p align="left">📷 I enjoy taking pictures, checking out programming tips, and learning English.</p>
@@ -55,6 +55,7 @@
 - 💼 **Banco BV** (**01/2025 - Presente**)
   - Cargo: **Desenvolvedor Backend Junior (Java)**
   - 🔹 Experiência com desenvolvimento backend em **Java** utilizando **Spring Boot**
+  - 🔹 Monitoramento dos componentes através do **Datadog**
 - 💼 **Specialisterne Brasil** (**07/2023 - 01/2025**)
   - Cargo: **Consultor de TI**
   - 🖥️ **Tecnologias utilizadas:** Java, Spring Boot, Swagger, Bitbucket, Jenkins, APIGEE, Postman, Git
@@ -78,6 +79,28 @@
 
 ## 🏆 Certificações / Certifications:
 
+- 🏅 Maximize Productivity With AI Tools – Coursera – **01/2026**
+- 🏅 Formação Conhecendo SQL – Banco BV – **12/2025**
+- 🏅 Realizando consultas com SQL: Joins, Views e transações – Alura – **12/2025**
+- 🏅 SQLite Online: executando consultas SQL – Alura – **11/2025**
+- 🏅 SQLite online: análise de dados com SQL – Alura – **11/2025**
+- 🏅 Google Cloud Para Iniciantes (GCP)- Domine a Nuvem do Google – Udemy Brasil – **11/2025**
+- 🏅 Introduction to AI – Coursera – **11/2025**
+- 🏅 Microsserviços Java com Spring Boot e Spring Cloud – Udemy Brasil – **11/2025**
+- 🏅 SQLite online: conhecendo instruções SQL – Alura – **11/2025**
+- 🏅 Programa Security Champions 2025 – Banco BV – **08/2025**
+- 🏅 Datadog para iniciantes – Udemy Brasil – **09/2025**
+- 🏅 Java Programmer - Módulo I (online) - 40 horas – Impacta – **09/2025**
+- 🏅 Academia Ágil - OBR – Banco BV – **08/2025**
+- 🏅 Bootcamp de Agilidade – Banco BV – **08/2025**
+- 🏅 Gemini Code Assist - Introdução – Banco BV – **08/2025**
+- 🏅 GenAI para Todos | Trilha Fundacional – Banco BV – **08/2025**
+- 🏅 Java COMPLETO Programação Orientada a Objetos + Projetos – Udemy Brasil – **08/2025**
+- 🏅 Workshop - Guia de Boas Práticas de Cyber - 2 horas – FEBRABAN – **07/2025**
+- 🏅 Desenvolva+ Back-end Java – Ada Tech – **06/2025**
+- 🏅 Java OO: entendendo a Orientação a Objetos – Alura – **05/2025**
+- 🏅 Java JRE e JDK: compile e execute o seu programa – Alura – **04/2025**
+- 🏅 Java primeiros passos: Lógica de Programação e Algoritmos – Udemy Brasil – **03/2025**
 - 🏅 Programação Orientada a Objetos Básica (Java) – Ada Tech – **02/2025**
 - 🏅 Algoritmos e Lógica de Programação (30.5 horas) - O Curso COMPLETO – Udemy Brasil - **01/2025**
 - 🏅 Formação Desenvolva+ - Ada Tech (Em andamento) -

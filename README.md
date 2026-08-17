@@ -234,8 +234,6 @@
     - Metodologia Scrum
     - Testes de Software
     - Práticas de development e backoffice
-- 🏅 Tech’s Cool: SAP ABAP – Accenture Academy (75 horas) – 08/2022 - 09/2022
-- 🏅 Formação de Mainframe I – Desenvolvedor COBOL Enterprise – Tech6 (80 horas) – 02/2021
 
 
 
